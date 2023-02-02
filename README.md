@@ -1,9 +1,17 @@
 # Leon Agency
 
-Fully Responsive
+Fully Responsive Leon Agency Website
 
 ## Screenshots
 
-- Laptop: ![Laptop](ScreenShots/Laptop.jpg)
-- Tablet: ![Tablet](ScreenShots/tablet.png)
-- Mobile: ![Mobile](ScreenShots/Mobile-moukup.png)
+- Laptop: ![Laptop] 
+
+(ScreenShots/Laptop.jpg)
+
+- Tablet: ![Tablet] 
+
+(ScreenShots/tablet.png)
+
+- Mobile: ![Mobile] 
+
+(ScreenShots/Mobile-moukup.png)
